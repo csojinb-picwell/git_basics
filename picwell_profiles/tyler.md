@@ -11,6 +11,13 @@ I live in DC.
 ## Interests
 - Making health insurance decisions more easier
 - I like books
+- Making health insurance decisions more easier
+- Wrestling with pandas -- the animal AND the python library.
 
 ## Power animal
 Meerkat
+I work for PicWell. I learned to leap buildings in a single bound at age 19.
+
+
+## Power animal
+Lumbering tortoise
