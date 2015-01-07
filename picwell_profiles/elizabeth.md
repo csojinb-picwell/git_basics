@@ -10,6 +10,7 @@
 - I am from the west coast and moved to Philly 4 years ago.
 - I have two brothers, one sister, and soon-to-be 8 nieces and nephews!
 - Hobbies: sewing, cooking, hanging out with my cats.
+- I am a Linear Algebreacist!!!!!!!!
 
 ## Interests
 - Making health insurance decisions more easier
