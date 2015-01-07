@@ -6,7 +6,7 @@
 
 
 ## Life story in ~~5~~ 4 sentences
-- My cats, Loki and Ada, are the greatest cats in the world. 
+- My cats, Loki and Ada, are the greatest cats in the world.
 - I am from the west coast and moved to Philly 4 years ago.
 - I have two brothers, one sister, and soon-to-be 8 nieces and nephews!
 - Hobbies: sewing, cooking, hanging out with my cats.
@@ -14,6 +14,9 @@
 
 ## Interests
 - Making health insurance decisions more easier
+- Apple-bobbing
+- Cartwheels
+- Making my bangs cool and flippy
 
 ## Power animal
 - CAT!!!
