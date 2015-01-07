@@ -14,3 +14,11 @@ I work for PicWell. I live in Washington, DC, which is _ssoooo_ much cooler than
 ## Power animal
 
 ![photo](http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg)
+I work for PicWell. I learned to leap buildings in a single bound at age 19.
+
+## Interests
+- Making health insurance decisions more easier
+- Wrestling with pandas -- the animal AND the python library.
+
+## Power animal
+Lumbering tortoise
