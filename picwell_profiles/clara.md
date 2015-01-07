@@ -19,4 +19,4 @@
 
 ## Power animal
 Polar bear
-![](http://assets.worldwildlife.org/photos/2330/images/hero_small/polar-bear-hero.jpg?1345901694)
+![](http://sliceofsamarah.files.wordpress.com/2013/05/polar6.jpg)
