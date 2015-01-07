@@ -20,3 +20,7 @@
 ## Power animal
 Polar bear
 ![](http://assets.worldwildlife.org/photos/2330/images/hero_small/polar-bear-hero.jpg?1345901694)
+
+## Favorite Activities
+- Robbing people from Iowa
+
