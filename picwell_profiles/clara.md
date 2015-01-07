@@ -24,3 +24,4 @@ Polar bear
 ## Favorite Activities
 - Robbing people from Iowa
 
+![](http://sliceofsamarah.files.wordpress.com/2013/05/polar6.jpg)
