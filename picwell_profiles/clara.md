@@ -2,11 +2,21 @@
 
 ---
 
-![photo](http://www.fancyhands.com/images/default-avatar-250x250.png)
+![photo](http://media.giphy.com/media/VvHuInLUolJde/giphy.gif)
 
 ## Life story in 5 sentences
+- I grew up in Indiana.
+- I went to school in Boston.
+- I've lived in the DC area for 3 years.
+- Physics --> NASA --> ???!! --> software
+- Git is pretty cool, huh?
 
 ## Interests
 - Making health insurance decisions more easier
+- I like puppies.
+- Green is my favorite color.
+
 
 ## Power animal
+Polar bear
+![](http://assets.worldwildlife.org/photos/2330/images/hero_small/polar-bear-hero.jpg?1345901694)
