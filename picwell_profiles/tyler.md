@@ -6,13 +6,15 @@
 
 ## Life story in 5 sentences
 Went to Yale.
+Majored in applied math. 
 Started a company.
 Did some consulting.
 Came to picwell.
+Live with engineer girlfriend. (Engineers are awesome!)Math / model guru at Picwell
 About to go to Wharton.
 
 ## Interests
-Have to talk more.
+- Mentoring first-gen college students
 
 ## Power animal
 Goose

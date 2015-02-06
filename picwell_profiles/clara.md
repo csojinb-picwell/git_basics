@@ -12,6 +12,7 @@ Princeton. Granger. Boston. NASA. TMF. Picwell. (Oops, that was 6.)
 - Euro-style board games
 
 ## Power animal
+Polar Bear
 
 ## Favorite Activities
 
